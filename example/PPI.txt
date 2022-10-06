@@ -1,0 +1,25 @@
+Official Symbol Interactor A	Official Symbol Interactor B
+A	B
+A	D
+A	E
+B	A
+B	D
+B	E
+B	G
+C	G
+D	A
+D	B
+E	A
+E	B
+E	G
+F	H
+F	I
+G	B
+G	C
+G	E
+H	F
+H	I
+I	F
+I	H
+I	J
+J	I
