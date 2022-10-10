@@ -128,7 +128,7 @@ def main():
             stop_crit=args.stopcrit,
             max_iters=args.maxiters,
             val_indices=val_indices,
-            val_values=val_values,
+            val_values=val_values[0].T,
             verbose=args.verbose,
             metadata=metadata,
             backend=args.backend,
